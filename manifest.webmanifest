@@ -1,0 +1,22 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/media/homescreen-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/media/homescreen-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "name": "Towards Nature",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Nature",
+  "start_url": "/?source=homescreen",
+  "theme_color": "#ffffff"
+}
